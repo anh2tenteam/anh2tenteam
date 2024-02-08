@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anh2tenteam
+- 👋 Hi, I’m @anh2ten
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on telegram
